@@ -8,11 +8,6 @@
     <meta charset="utf-8">
     <link type="text/css" rel="stylesheet" href="style.css">
     <title>Gal Kahalani</title>
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
-
     <asp:ContentPlaceHolder ID="head" Runat="Server">
     </asp:ContentPlaceHolder>
 </head>
@@ -26,9 +21,9 @@
     
     <div id="nav">
         <ul>
-        <li><a href="/Gal.Kahalani/Default.aspx"">בית</a></li>
-        <li><a href="/Gal.Kahalani/webpages/Contact.aspx">צור קשר</a></li>
-        <li><a href="/Gal.Kahalani/webpages/Works.aspx">תיק עבודות</a></li>
+        <li><a href="index.html"">בית</a></li>
+        <li><a href="Contact.html">צור קשר</a></li>
+        <li><a href="Works.html">תיק עבודות</a></li>
         </ul>
     </div>          
 
