@@ -5,9 +5,9 @@ body
 
 #container
 {
-  width: 100%; 
-  max-width: 1280px;
-  height: auto;
+  width: 1002px; 
+  max-width: 1002px;
+  height: 775px;
   max-height: 775px;
   margin: 0px auto;
   
@@ -17,8 +17,8 @@ body
 
 .main
 {
-    width: 1280px; 
-    max-width: 1280px;
+    width: 1002px; 
+    max-width: 1002px;
     height: 775px;
     max-height: 775px;
     background: #e8e8e8; 
@@ -35,8 +35,8 @@ body
   font-family:Arial;
   background:#fff; 
   height:60px; 
-  width: 1280; 
-  max-width: 1280px;
+  width: 1002px; 
+  max-width: 1002pxpx;
   border: solid 2px #000; 
   color:black;
   text-align: center;
@@ -53,8 +53,8 @@ body
 	text-align: center;
 	background-color: #000; margin: 0;
 	height: 40px;
-	width: 1280; 
-    max-width: 1280px;
+	width: 1002px; 
+    max-width: 1002pxpx;
 	} 
  
 #nav ul li {  
@@ -103,8 +103,8 @@ width: 100px;
 
 /* Slideshow container */
 .slideshow-container {
-  width: 1280; 
-  max-width: 1280px;
+  width: 1002px; 
+  max-width: 1002pxpx;
   height: 720px;
   max-height: 720px;
   margin: 0px auto;
