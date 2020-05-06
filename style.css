@@ -5,9 +5,9 @@ body
 
 #container
 {
-  width: 1280px; 
+  width: 100%; 
   max-width: 1280px;
-  height: 775px;
+  height: auto;
   max-height: 775px;
   margin: 0px auto;
   
