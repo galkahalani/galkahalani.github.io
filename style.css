@@ -35,8 +35,9 @@ body
   font-family:Arial;
   background:#fff; 
   height:60px; 
+  max-height:60px;
   width: 1002px; 
-  max-width: 1002pxpx;
+  max-width: 1002px;
   border: solid 2px #000; 
   color:black;
   text-align: center;
@@ -53,6 +54,7 @@ body
 	text-align: center;
 	background-color: #000; margin: 0;
 	height: 40px;
+	max-height: 40px;
 	width: 1002px; 
     max-width: 1002pxpx;
 	} 
