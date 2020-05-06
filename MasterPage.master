@@ -1,0 +1,43 @@
+<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+    <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <title>Gal Kahalani</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <asp:ContentPlaceHolder ID="head" Runat="Server">
+    </asp:ContentPlaceHolder>
+</head>
+  
+<body> 
+  <div id="container">
+
+    <div class="header">
+          <text>גל קהלני - מערכות מידע ואינטרנט</text>
+    </div>   
+    
+    <div id="nav">
+        <ul>
+        <li><a href="/Gal.Kahalani/Default.aspx"">בית</a></li>
+        <li><a href="/Gal.Kahalani/webpages/Contact.aspx">צור קשר</a></li>
+        <li><a href="/Gal.Kahalani/webpages/Works.aspx">תיק עבודות</a></li>
+        </ul>
+    </div>          
+
+    <div class="main">
+        <asp:contentplaceholder id="MainContent1" runat="server">
+         </asp:contentplaceholder>
+    </div> 
+       
+  </div>   
+</body>
+
+</html>
