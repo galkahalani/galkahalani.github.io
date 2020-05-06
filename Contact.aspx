@@ -10,7 +10,7 @@
     <div class="text2">
     <a href="mailto:gal.kahalani1@gmail.com" target="_blank">Email</a><a>   |   </a>
     <a href="https://wa.me/972547009911" target="_blank">WhatsApp</a><a>   |   </a>
-    <a href="../Images/cv.doc" target="_blank">הורדת קובץ קו"ח</a>
+    <a href="Images/cv.doc" target="_blank">הורדת קובץ קו"ח</a>
     </div>
     <iframe frameborder="0" src="https://docs.google.com/document/d/1feHqfViT4vVPDrkOSXn0TMY6rbpdkMdNj4nMGJ8_Orc/edit"
     width="1276" height="690px"></iframe>
