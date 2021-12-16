@@ -4,9 +4,9 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent1" Runat="Server">
 <div class="slideshow-container
     <div class="mySlides fade">
-    <div class="text2"><a href="Images/cv.doc" target="_blank">WORD дешгъ чебх че"з</a></div>
-    <iframe frameborder="0" src="https://docs.google.com/document/d/1feHqfViT4vVPDrkOSXn0TMY6rbpdkMdNj4nMGJ8_Orc/edit"
-    width="998" height="690px"></iframe>
+    <div class="text2"><a href="Images/cv.doc" target="_blank">WORD Г¤ГҐГёГЈГє Г·ГҐГЎГµ Г·ГҐ"Г§</a></div>
+    <iframe frameborder="0" src="https://docs.google.com/document/d/1nXc9hmEec76sUmzWDmMfMYnzwx_8uWhh/edit"
+    width="668" height="1002px"></iframe>
     </div>
     
     </div>
