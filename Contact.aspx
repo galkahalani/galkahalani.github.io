@@ -12,8 +12,8 @@
     <a href="https://wa.me/972547009911" target="_blank">WhatsApp</a><a>   |   </a>
     <a href="Images/cv.doc" target="_blank">הורדת קובץ קו"ח</a>
     </div>
-    <iframe frameborder="0" src="https://docs.google.com/document/d/1plol-2m3C197zzuVWbXU6wrSebiyLKBF/edit"
-    width="668px" height="1002px"></iframe>
+    <iframe frameborder="0" src="https://docs.google.com/document/d/1nXc9hmEec76sUmzWDmMfMYnzwx_8uWhh/edit"
+    width="998px" height="690px"></iframe>
     
     </div>
     </div>
