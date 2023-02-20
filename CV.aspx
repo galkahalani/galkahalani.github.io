@@ -5,7 +5,7 @@
 <div class="slideshow-container
     <div class="mySlides fade">
     <div class="text2"><a href="Images/cv.doc" target="_blank">WORD äåøãú ÷åáõ ÷å"ç</a></div>
-    <iframe frameborder="0" src="https://docs.google.com/document/d/1nXc9hmEec76sUmzWDmMfMYnzwx_8uWhh/edit"
+    <iframe frameborder="0" src="https://docs.google.com/document/d/164Pv6K7lD35-ISQiShu8kuNT4hIuYtouATiV_nfhAQ0/edit"
     width="998px" height="690px"></iframe>
     </div>
     
