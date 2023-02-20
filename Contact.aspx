@@ -12,7 +12,7 @@
     <a href="https://wa.me/972547009911" target="_blank">WhatsApp</a><a>   |   </a>
     <a href="Images/cv.doc" target="_blank">הורדת קובץ קו"ח</a>
     </div>
-    <iframe frameborder="0" src="https://docs.google.com/document/d/1nXc9hmEec76sUmzWDmMfMYnzwx_8uWhh/edit"
+    <iframe frameborder="0" src="https://docs.google.com/document/d/164Pv6K7lD35-ISQiShu8kuNT4hIuYtouATiV_nfhAQ0/edit"
     width="998px" height="690px"></iframe>
     
     </div>
