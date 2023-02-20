@@ -1,4 +1,4 @@
-<%@ Page Language="VB" MasterPageFile="~/MasterPage.master" AutoEventWireup="false" CodeFile="Works.aspx.vb" Inherits="webpages_CV" title="χε""η" %>
+<%@ Page Language="VB" MasterPageFile="~/MasterPage.master" AutoEventWireup="false" CodeFile="Works.aspx.vb" Inherits="webpages_CV" title="Γ·Γ¥""Γ§" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent1" Runat="Server">
@@ -8,7 +8,7 @@
     <div class="mySlides fade">
       <div class="numbertext">1 / 6</div>
       <img src="Images/Slideshow/Photoshop.jpg" width="998px" height="690px" >
-      <div class="text">ιφιψϊ ΰμτι ξεφψιν α-Photoshop</div>
+      <div class="text">Γ©Γ¶Γ©ΓΈΓΊ Γ Γ¬Γ΄Γ© Γ®Γ¥Γ¶ΓΈΓ©Γ­ Γ΅-Photoshop</div>
       <div class="text2"><a href="https://www.gaash1.co.il/he/%D7%A7%D7%98%D7%9C%D7%95%D7%92/%d7%93%d7%9c%d7%aa-%d7%9b%d7%a0%d7%99%d7%a1%d7%94-7020/" target="_blank">Photoshop</a><a>   |   </a>
       <a href="https://www.youtube.com/embed/3XZ9YcwZsNE" target="_blank">Adobe Premiere</a><a>   |   </a>
       <a href="https://autode.sk/2KXcmXK" target="_blank">Autodesk Inventor</a><a>   |   </a>
@@ -20,44 +20,44 @@
     <div class="mySlides fade">
       <div class="numbertext">2 / 6</div>
       <iframe width="998px" height="690px" src="https://www.youtube.com/embed/BzID1xiwwJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <div class="text">ΰιτιεο, ιιωεν εδθξςϊ ΰρθψθβιιδ πιδεμιϊ ERP</div>
-      <div class="text2"><a>απερσ: ιιωεν εδθξςϊ ξςψλϊ CRM λεμμ δϊξξωχεϊ ξδΰϊψ ΰιπθψπθ, ξδτιιραεχ εξδ-ADWORDS.   |   </a>
-      <a href="Images/Slideshow/Forms.jpg" target="_blank">θτριν, πεδμι ςαεγδ</a>
-      <a href="Images/Slideshow/γεη ξμΰι.jpg" target="_blank">γεηεϊ</a>
-      <a href="Images/Slideshow/δζξπϊ_μχεη.jpg" target="_blank">εςιφεα ξρξλι ξςψλϊ ξιγς</a>
+      <div class="text">Γ Γ©Γ΄Γ©Γ¥Γ―, Γ©Γ©ΓΉΓ¥Γ­ Γ¥Γ¤Γ¨Γ®Γ²ΓΊ Γ Γ±Γ¨ΓΈΓ¨ΓΆΓ©Γ©Γ¤ Γ°Γ©Γ¤Γ¥Γ¬Γ©ΓΊ ERP</div>
+      <div class="text2"><a>Γ΅Γ°Γ¥Γ±Γ³: Γ©Γ©ΓΉΓ¥Γ­ Γ¥Γ¤Γ¨Γ®Γ²ΓΊ Γ®Γ²ΓΈΓ«ΓΊ CRM Γ«Γ¥Γ¬Γ¬ Γ¤ΓΊΓ®Γ®ΓΉΓ·Γ¥ΓΊ Γ®Γ¤Γ ΓΊΓΈ Γ Γ©Γ°Γ¨ΓΈΓ°Γ¨, Γ®Γ¤Γ΄Γ©Γ©Γ±Γ΅Γ¥Γ· Γ¥Γ®Γ¤-ADWORDS.   |   </a>
+      <a href="Images/Slideshow/Payment Form.jpg" target="_blank">ΧΧ•Χ¤Χ΅ ΧªΧ©ΧΧ•Χ ΧΧΧ•Χ—Χ©Χ‘</a>
+      <a href="Images/Slideshow/Γ£Γ¥Γ§ Γ®Γ¬Γ Γ©.jpg" target="_blank">Γ£Γ¥Γ§Γ¥ΓΊ</a>
+      <a href="Images/Slideshow/Γ¤Γ¦Γ®Γ°ΓΊ_Γ¬Γ·Γ¥Γ§.jpg" target="_blank">Γ¥Γ²Γ©Γ¶Γ¥Γ΅ Γ®Γ±Γ®Γ«Γ© Γ®Γ²ΓΈΓ«ΓΊ Γ®Γ©Γ£Γ²</a>
       </div>
     </div>
     
     <div class="mySlides fade">
       <div class="numbertext">3 / 6</div>
       <iframe width="998px" height="690px" src="https://www.youtube.com/embed/rttD7mFf53I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <div class="text">ξςψλϊ μπιδεμ ξηιψεπιν εχθμεβ</div>
-      <div class="text2">απερσ: <a href="https://www.youtube.com/embed/q9cCtxORlWs" target="_blank">ϊελπδ μηιωεα ςμειεϊ ιιαεΰ</a><a>   |   </a>
-      <a href="Images/Slideshow/Warrenty_form.jpg" target="_blank">θετρ ϊςεγϊ ΰηψιεϊ</a><a>   |   </a>
-      <a href="Images/Slideshow/Guests_list.jpg" target="_blank">ψωιξϊ ξεζξπιν μΰιψες</a></div>
+      <div class="text">Γ®Γ²ΓΈΓ«ΓΊ Γ¬Γ°Γ©Γ¤Γ¥Γ¬ Γ®Γ§Γ©ΓΈΓ¥Γ°Γ©Γ­ Γ¥Γ·Γ¨Γ¬Γ¥ΓΆ</div>
+      <div class="text2">Γ΅Γ°Γ¥Γ±Γ³: <a href="https://www.youtube.com/embed/q9cCtxORlWs" target="_blank">ΓΊΓ¥Γ«Γ°Γ¤ Γ¬Γ§Γ©ΓΉΓ¥Γ΅ Γ²Γ¬Γ¥Γ©Γ¥ΓΊ Γ©Γ©Γ΅Γ¥Γ </a><a>   |   </a>
+      <a href="Images/Slideshow/Warrenty_form.jpg" target="_blank">Γ¨Γ¥Γ΄Γ± ΓΊΓ²Γ¥Γ£ΓΊ Γ Γ§ΓΈΓ©Γ¥ΓΊ</a><a>   |   </a>
+      <a href="Images/Slideshow/Guests_list.jpg" target="_blank">ΓΈΓΉΓ©Γ®ΓΊ Γ®Γ¥Γ¦Γ®Γ°Γ©Γ­ Γ¬Γ Γ©ΓΈΓ¥Γ²</a></div>
     </div>
     
     <div class="mySlides fade">
       <div class="numbertext">4 / 6</div>
       <img src="Images/Slideshow/Merp.jpg" width="998px" height="690px" >
-      <div class="text">ςαεγϊ βξψ αϊτ"ι - δπγρδ ϊςωιιδ επιδεμ MERP - ξχεν 5</div>
+      <div class="text">Γ²Γ΅Γ¥Γ£ΓΊ ΓΆΓ®ΓΈ Γ΅ΓΊΓ΄"Γ© - Γ¤Γ°Γ£Γ±Γ¤ ΓΊΓ²ΓΉΓ©Γ©Γ¤ Γ¥Γ°Γ©Γ¤Γ¥Γ¬ MERP - Γ®Γ·Γ¥Γ­ 5</div>
       <div class="text2"><a href="Images/Slideshow/TSC-assignment.pdf" target="_blank">The TSC and TSC-MRP scenarios</a><a>   |   </a>      
-      <a href="Images/Slideshow/merp-assignment-guide-2013.pdf" target="_blank">ξγψικ μαιφες ϊψβιμ TSCs</a><a>   |   </a>
-      <a href="Images/Slideshow/eheh2.xlsx" target="_blank">χεαυ περηΰ</a></div>
+      <a href="Images/Slideshow/merp-assignment-guide-2013.pdf" target="_blank">Γ®Γ£ΓΈΓ©Γª Γ¬Γ΅Γ©Γ¶Γ¥Γ² ΓΊΓΈΓΆΓ©Γ¬ TSCs</a><a>   |   </a>
+      <a href="Images/Slideshow/eheh2.xlsx" target="_blank">Γ·Γ¥Γ΅Γµ Γ°Γ¥Γ±Γ§Γ </a></div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext">5 / 6</div>
       <img src="Images/Slideshow/wc1711112.jpg" width="998px" height="690px" >
-      <div class="text">πιδεμ ωψϊιν, ΰαθηϊ ξιγς εψλω θλπεμεβι IT</div>
+      <div class="text">Γ°Γ©Γ¤Γ¥Γ¬ ΓΉΓΈΓΊΓ©Γ­, Γ Γ΅Γ¨Γ§ΓΊ Γ®Γ©Γ£Γ² Γ¥ΓΈΓ«ΓΉ Γ¨Γ«Γ°Γ¥Γ¬Γ¥ΓΆΓ© IT</div>
       <div class="text2">Windows Server 2008 & 2012 R2, Checkpoint Networking & Security</div>
     </div>
     
     <div class="mySlides fade">
       <div class="numbertext">6 / 6</div>
       <iframe width="998px" height="690px" src="https://www.youtube.com/embed/71ZaygTHGZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <div class="text">τιϊεη 10 ΰτμιχφιεϊ μξγιδ ρπθψ XBMC/KODI</div>
-      <div class="text2">ωιξεω αωτεϊ Python, JSON, XML, BASH, BATCH ςν ϊΰιξεϊ μ-LINUX ε-WINDOWS εψιτε α-<a href="https://github.com/finalmakerr/featherence" target="_blank">Github</a></div>
+      <div class="text">Γ΄Γ©ΓΊΓ¥Γ§ 10 Γ Γ΄Γ¬Γ©Γ·Γ¶Γ©Γ¥ΓΊ Γ¬Γ®Γ£Γ©Γ¤ Γ±Γ°Γ¨ΓΈ XBMC/KODI</div>
+      <div class="text2">ΓΉΓ©Γ®Γ¥ΓΉ Γ΅ΓΉΓ΄Γ¥ΓΊ Python, JSON, XML, BASH, BATCH Γ²Γ­ ΓΊΓ Γ©Γ®Γ¥ΓΊ Γ¬-LINUX Γ¥-WINDOWS Γ¥ΓΈΓ©Γ΄Γ¥ Γ΅-<a href="https://github.com/finalmakerr/featherence" target="_blank">Github</a></div>
     </div>
 
   <!-- Next and previous buttons -->
